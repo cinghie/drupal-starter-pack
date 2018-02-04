@@ -1,25 +1,27 @@
-# Drupal 8 Starter Pack
-Drupal 8 Starter Pack is a ready-to-use bootstrap site with:
-
-- Bootstrap Business Theme
-- Mandatory modules
-- Mandatory libraries
+# Drupal Demo
+Drupal Demo site with Bootstrap Business Template and mandatory modules adn libraries just installed
 
 # Installation
 
-## 1 Download and install Drupal 8 last version:
+## 1 Download and install Drupal last version:
 
 https://www.drupal.org/project/drupal
 
-## 2a) Copy drupal8 folder to your project root
+## 2a) Copy the content of drupal 8 folder to your project root
 
-## 2b) Clone git drupal8 from terminal
+
+## 2b) Copy folder with git from Terminal
+
+Install in the some folder
 
 ```
-git clone -b drupal8 --single-branch https://github.com/cinghie/drupal-demo.git .
+git clone -b drupal8 git@github.com:cinghie/drupal-demo.git drupal8
 ```
 
-## 3 Uncompress and load database from drupal8.sql.rar
+## 3 Install this project database
+
+username: admin  
+password: password
 
 ## 4 Run Security Review
 
@@ -33,6 +35,5 @@ admin/reports/security-review
 node#overlay=admin/config/development/logging
 ```
 
- - On Development set "All Errors"
- - On Production set "Nobody"
- 
+ - On Development set Tutti gli errori
+ - On Production set Nessuno
