@@ -24,7 +24,7 @@ git clone -b drupal7 git@github.com:cinghie/drupal-demo.git drupal7
 
 ## 3 Install this project database
 
-username: admin
+username: admin  
 password: password
 
 ## 4 Run Security Review
