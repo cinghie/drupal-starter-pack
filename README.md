@@ -20,7 +20,7 @@ git clone -b drupal8 git@github.com:cinghie/drupal-demo/edit/drupal8.git
 
 ## 3 Install this project database
 
-username: admin
+username: admin  
 password: password
 
 ## 4 Run Security Review
