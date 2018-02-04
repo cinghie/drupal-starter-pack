@@ -1,43 +1,27 @@
-# Drupal Demo
-Drupal Demo site with Bootstrap Business Template and mandatory modules adn libraries just installed
+# Drupal 8 Starter Pack
+Drupal 8 Starter Pack is a ready-to-use bootstrap site with:
+
+- Bootstrap Business Theme
+- Mandatory modules
+- Mandatory libraries
 
 # Installation
 
-## 1 Set on your server the Github Token Access
-
-```
-composer config -g github-oauth.github.com <oauthtoken>
-```
-
-to create a token access: 
-
-https://help.github.com/articles/creating-a-personal-access-token-for-the-command-line/
-
-
-## 2 Copy git From terminal
-
-Install in the some folder
-
-```
-git clone https://github.com/cinghie/drupal-demo.git .
-```
-
-Install in a specific folder
-```
-git clone https://github.com/cinghie/drupal-demo.git path/to/folder/
-```
-
-# Configutaion
-
-## 1 Download and install Drupal last version:
+## 1 Download and install Drupal 8 last version:
 
 https://www.drupal.org/project/drupal
 
-## 2 Adding this project files to root folder
+## 2a) Copy drupal8 folder to your project root
 
-## 3 Install this project database
+## 2b) Clone git drupal8 from terminal
 
-## 5 Run Security Review
+```
+git clone -b drupal8 --single-branch https://github.com/cinghie/drupal-demo.git .
+```
+
+## 3 Uncompress and load database from drupal8.sql.rar
+
+## 4 Run Security Review
 
 ```
 admin/reports/security-review
@@ -49,6 +33,6 @@ admin/reports/security-review
 node#overlay=admin/config/development/logging
 ```
 
- - On Development set Tutti gli errori
- - On Production set Nessuno
+ - On Development set "All Errors"
+ - On Production set "Nobody"
  
