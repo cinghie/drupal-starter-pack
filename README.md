@@ -7,5 +7,5 @@ Drupal Starter Pack is a ready-to-use Drupal site with:
 
 ## Select Drupal Version
 
-- [Drupal 7](drupal7/README.md)  
-- [Drupal 8](drupal8/README.md)
+- [Drupal 7](drupal7)  
+- [Drupal 8](drupal8)
