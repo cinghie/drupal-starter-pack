@@ -1,5 +1,9 @@
-# Drupal Demo
-Drupal Demo site with Bootstrap Business Template and mandatory modules adn libraries just installed
+# Drupal 7 Starter Pack
+Drupal 7 Starter Pack is a ready-to-use Drupal site with:
+
+- Bootstrap Business Template
+- Mandatory modules
+- Mandatory libraries
 
 # Installation
 
