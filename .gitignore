@@ -51,7 +51,5 @@ xmlrpc.php
 /misc
 /modules
 /profiles
-!profiles/standard/translations/
-!profiles/standard/translations/README.txt
 /scripts
 /themes
