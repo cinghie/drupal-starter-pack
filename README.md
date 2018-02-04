@@ -5,5 +5,7 @@ Drupal Starter Pack is a ready-to-use Drupal site with:
 - Mandatory modules
 - Mandatory libraries
 
-[Drupal 7](drupal7/README.md)
-[Drupal 8](drupal8/README.md)
+## Select Drupal Version
+
+- [Drupal 7](drupal7/README.md)  
+- [Drupal 8](drupal8/README.md)
