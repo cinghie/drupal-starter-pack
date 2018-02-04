@@ -19,7 +19,7 @@ https://www.drupal.org/project/drupal
 Install in the some folder
 
 ```
-git clone -b drupal7 git@github.com:cinghie/drupal-demo.git
+git clone -b drupal7 git@github.com:cinghie/drupal-demo.git drupal7
 ```
 
 ## 3 Install this project database
