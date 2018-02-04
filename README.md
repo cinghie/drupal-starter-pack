@@ -10,7 +10,7 @@ Drupal Starter Pack is a ready-to-use Drupal site with:
 - [Drupal 7](drupal7)  
 - [Drupal 8](drupal8)
 
-## The best extensions, libraries, guides, themes, tricks and tips for Drupal CMS
+## Extensions, libraries, guides, themes, tricks and tips
 
 ### Download
 
